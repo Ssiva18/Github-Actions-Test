@@ -5,4 +5,4 @@ def function1():
   
   
 print('welcome welcome dude')
-function1();
+function1()
